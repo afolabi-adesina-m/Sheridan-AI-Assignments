@@ -10,7 +10,7 @@ A collection of end-to-end data science assignments covering exploratory data an
 
 | # | Project | Dataset | Key Techniques |
 |---|---------|---------|----------------|
-| 1 | [Exploratory Data Analysis — Titanic](#1-exploratory-data-analysis--titanic) | Titanic (Seaborn) | EDA, Descriptive Stats, Visualizations |
+| 1 | [Exploratory Data Analysis —  Titanic](#1-exploratory-data-analysis--titanic) | Titanic (Seaborn) | EDA, Descriptive Stats, Visualizations |
 | 2 | [Global Happiness Analysis](#2-global-happiness-analysis-2020-2024) | World Happiness Report 2025 | Data Cleaning, EDA, Multivariate Analysis |
 | 3 | [Hypothesis Testing — The Waiter's Data Challenge](#3-hypothesis-testing--the-waiters-data-challenge) | Tips (Seaborn) | T-Test, Statistical Inference |
 | 4 | [Predictive Modelling — Bank Marketing](#4-predictive-modelling--bank-marketing) | UCI Bank Marketing | Linear Regression, Classification, Precision-Recall |
